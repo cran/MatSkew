@@ -1,0 +1,3 @@
+importFrom("stats", "rgamma", "uniroot")
+
+export(Fit_Skewt)
